@@ -1,0 +1,11 @@
+Package: baggedImpute
+Type: Package
+Title: Bootstrap aggregation for the imputation of missing values in time series
+Version: 0.0.1
+Date: 2019-03-25
+Author: Haydar Demirhan [aut, cre, cph] (<https://orcid.org/0000-0002-8565-4710>) and Agung Andiojaya [aut]
+Maintainer: Haydar Demirhan <haydar.demirhan@rmit.edu.au>
+Description: Implements a bagging algorithm for the imputation of missing values in time series. See Andiojaya and Demirhan (2019) for more information.
+Depends: stats, imputeTS
+License: GPL-3
+RoxygenNote: 6.1.1

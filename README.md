@@ -1,2 +1,18 @@
-# baggedImpute
-Implement bootstrap aggregation for the imputation of missing values in time serie
+baggedImpute
+====================
+[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/dLagM)](https://cran.r-project.org/package=baggedImpute)
+[![Downloads](https://cranlogs.r-pkg.org/badges/dLagM)](https://cran.r-project.org/package=baggedImpute)
+[![Licence](https://img.shields.io/badge/licence-GPL--3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
+
+## Installation
+You can install the **latest** version from
+[CRAN](https://cran.r-project.org/package=baggedImpute).
+
+```
+install.packages('baggedImpute', dependencies = TRUE)
+```
+
+## License
+
+This package is free and open source software, licensed under GPL-3.
